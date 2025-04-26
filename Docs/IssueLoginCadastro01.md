@@ -37,7 +37,5 @@ Mensagem duplicada em cadastro:
 
 Criar outra const para MensagemErro porém para cadastro, sendo assim, MensagemErroCadastro, passar esta MensagemErro para o hook de cadastro. Caso a mensagem de erro ocorra o mesmo erro de estar em vermelho, fazer os passos acima porém para MensagemSucessoCadastro.
 
-### 🖼 Capturas de tela 
-
 
 
